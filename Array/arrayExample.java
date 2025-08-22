@@ -1,5 +1,3 @@
-
-
 package Array;
 
 public class arrayExample {
@@ -57,7 +55,7 @@ public class arrayExample {
     }
 
     public static void main(String[] args) {
-        arrayexample obj = new arrayexample();
+        arrayExample obj = new arrayExample();
         obj.multiarrays();
         obj.demoArrays();
     }
